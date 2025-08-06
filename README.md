@@ -2,11 +2,6 @@
 
 A fun, fast-paced Timberman-style arcade game developed using **C++ and SFML**. In this game, the player chops a tree while avoiding falling branches. It's a great beginner-friendly project to learn game loops, sprite manipulation, animations, and real-time input handling using the SFML library.
 
----
-
-## 🎮 Game Preview
-
-<img src="screenshot.png" alt="Game Screenshot" width="600">
 
 ---
 
